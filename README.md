@@ -4,7 +4,7 @@ Hi 👋 My name is Daniel
 Computer Engineering Student, highly interested in Data Analysis, Cloud Computing and DevOps
 
 *   🌍  I'm based in São Paulo
-*   🧠  I'm learning golang
+*   🧠  I'm learning golang and computer vision
 
    ### Skills 
    
